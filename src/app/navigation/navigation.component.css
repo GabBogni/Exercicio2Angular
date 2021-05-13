@@ -1,0 +1,9 @@
+.itemSelecionado{
+    background-color: black;
+    color: white;
+}
+
+li:hover{
+    font-weight: bold;
+}
+

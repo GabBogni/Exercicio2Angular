@@ -1,0 +1,8 @@
+<nav>
+    <ul type = "none">
+        <li  (click) = "select('menu')" [class.itemSelecionado]="selectedItem == 'menu'" > Menu </li>
+        <li *ngFor = "let user of userlist" (click) = "select(user)" [class.itemSelecionado]="user == selectedItem"> 
+            {{user.name}}
+        </li>
+    </ul>
+</nav>

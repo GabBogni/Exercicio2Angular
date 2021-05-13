@@ -1,4 +1,10 @@
+
 # Exercicio2
+
+Para comunicação do componente raiz com os filhos foram usados os seguintes recursos do angular:
+- Leitura de valor das propriedades dos filhos pelo pai por variaveis locais
+- Escrita de valor das propriedades dos filhos pelo decorator @Input
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 

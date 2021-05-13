@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+header{
+    margin-bottom: 8%;
+}
+aside{
+    float:left;
+    height: 30vh;
+
+}
+
+main{
+    margin-left:40%;
+}
